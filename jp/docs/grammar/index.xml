@@ -8,16 +8,16 @@
  &lt;a class="anchor" href="#-%e5%8a%a8%e8%af%8d">#&lt;/a>
 &lt;/h2>
 &lt;blockquote class="book-hint info">
-&lt;p>&lt;small>I类动词：非II、III类动词，走る（はしる）、知る（しる）、要る（いる）、入る（はいる）、帰る（かえる）、切る（きる）、喋る（しゃべる）&lt;/small>&lt;br>
-&lt;small>II类动词：以る结尾且倒数第二个假名是い、え段 &lt;/small>&lt;br>
-&lt;small>III类动词：来る、する（包括动作性名词+する）&lt;/small>&lt;/p>
+&lt;p>&lt;strong>I类&lt;/strong>：非II、III类动词，走る（はしる）、知る（しる）、要る（いる）、入る（はいる）、帰る（かえる）、切る（きる）、喋る（しゃべる）&lt;br>
+&lt;strong>II类&lt;/strong>：以「る」结尾且倒数第二个假名是「い、え」段 &lt;br>
+&lt;strong>III类&lt;/strong>：来る、する（包括动作性名词+する）&lt;/p>
 &lt;/blockquote>
 &lt;h3 id="ます型">
  ます型
  &lt;a class="anchor" href="#%e3%81%be%e3%81%99%e5%9e%8b">#&lt;/a>
 &lt;/h3>
 &lt;blockquote>
-&lt;p>非过去时敬体肯定&lt;/p>
+&lt;p>非过去敬体肯定&lt;/p>
 &lt;/blockquote>
 &lt;table>
  &lt;thead>
@@ -51,7 +51,7 @@
  &lt;a class="anchor" href="#%e3%81%aa%e3%81%84%e5%9e%8b">#&lt;/a>
 &lt;/h3>
 &lt;blockquote>
-&lt;p>非过去式简体否定&lt;/p>
+&lt;p>非过去简体否定&lt;/p>
 &lt;/blockquote>
 &lt;table>
  &lt;thead>
@@ -69,7 +69,7 @@
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">② 词尾是其他う段，变い段＋ない&lt;/td>
+ &lt;td style="text-align: left">② 词尾是其他「う」段，变「あ」段＋ない&lt;/td>
  &lt;td style="text-align: left">行く→行かない&lt;/td>
  &lt;/tr>
  &lt;tr>
@@ -79,12 +79,12 @@
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">III&lt;/td>
- &lt;td style="text-align: left">来る→来（こ）ない、る→しない&lt;/td>
+ &lt;td style="text-align: left">来る→来（こ）ない、する→しない&lt;/td>
  &lt;td style="text-align: left">&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;p>&lt;em>&lt;small>p.s.：ある→ない，愛する→愛さない。〜なかった（过去简体否定），先变ない型然后い→かった。&lt;/small>&lt;/em>&lt;/p>
+&lt;p>&lt;em>&lt;small>p.s.：ある→ない，愛する→愛さない。&lt;/small>&lt;/em>&lt;/p>
 &lt;h3 id="た型">
  た型
  &lt;a class="anchor" href="#%e3%81%9f%e5%9e%8b">#&lt;/a>
@@ -133,8 +133,4 @@
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;h2 id="-形容词">
- 🦩 形容词
- &lt;a class="anchor" href="#-%e5%bd%a2%e5%ae%b9%e8%af%8d">#&lt;/a>
-&lt;/h2>
-&lt;p>&lt;font color="cyan">todo&amp;hellip;&lt;/font>&lt;/p></description></item></channel></rss>
+&lt;p>&lt;small>p.s.：过去简体否定：〜なかった，先变ない型然后い→かった。&lt;/small>*&lt;/p></description></item></channel></rss>
